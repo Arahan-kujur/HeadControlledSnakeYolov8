@@ -1,6 +1,7 @@
 # 🐍 AI-Controlled Snake Game - Head Movement Control
 
 A real-time head-controlled Snake game powered by YOLOv8 pose estimation. Control the snake by moving your head instead of using keyboard or mouse!
+[![Watch the demo](/demo/demo.png)](https://youtu.be/J-1SKO85cjU)
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
